@@ -34,16 +34,22 @@
 <br/>
 <br/>
 
-### 📊 Stats
-
+### 
+<summary><h2>📊 Github Stats and Activity</h2></summary>
+   
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabedkhanjb&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
+   <br/>
+### <h3>🔥 Streak Stats</h3>
+<a href="https://github.com/anuraghazra/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jabedkhanjb's streak" src="https://streak-stats.demolab.com/?user=jabedkhanjb&theme=monokai-metallian&hide_border=true"/>
+    </a>
+ ---
+ 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+<a href="https://github.com/jabedkhanjb/github-readme-activity-graph"><img alt="jabedkhanjb's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jabedkhanjb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
 [website]: https://allmylinks.com/jabedkhanjb
 [youtube]: https://youtube.com/jabedkhanjb
-
