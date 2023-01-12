@@ -1,9 +1,8 @@
+## Hi Everyone! Welcome to 🏄‍♂️ Jabed's GitHub Profile
 
+<!-- # 🏄‍♂️ MAHFUZ ISLAM KHAN JABED -->
 
-
-# 🏄‍♂️ MAHFUZ ISLAM KHAN JABED
-
-**`@jabedkhanjb`**
+<a href= "https://allmylinks.com/jabedkhanjb">**`@jabedkhanjb`**</a>
 
 
 
