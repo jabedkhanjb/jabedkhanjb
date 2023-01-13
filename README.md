@@ -33,13 +33,14 @@
 <br/>
 <br/>
 
-### 
+ 
 <summary><h2>📊 Github Stats and Activity</h2></summary>
    
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabedkhanjb&show_icons=true&theme=gruvbox)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabedkhanjb&show_icons=true&theme=radical)
+   
    <br/>
-### <h3>🔥 Streak Stats</h3>
-<a href="https://github.com/anuraghazra/github-readme-streak-stats">
+<h3>🔥 Streak Stats</h3>
+<a href="https://github.com/jabedkhanjb/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jabedkhanjb's streak" src="https://streak-stats.demolab.com/?user=jabedkhanjb&theme=monokai-metallian&hide_border=true"/>
     </a>
     
