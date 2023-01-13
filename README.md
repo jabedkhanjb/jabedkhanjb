@@ -34,7 +34,7 @@
 <br/>
 
  
-<summary><h2>📊 Github Stats and Activity</h2></summary>
+<summary><h3>📊 Github Stats and Activity</h3></summary>
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabedkhanjb&show_icons=true&theme=radical)
    
@@ -45,7 +45,7 @@
     </a>
     
 
-<h2>📅 Monthly Acitivities</h2>
+<h3>📅 Monthly Acitivities</h3>
   
 <a href="https://github.com/jabedkhanjb/github-readme-activity-graph"><img alt="jabedkhanjb's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jabedkhanjb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
