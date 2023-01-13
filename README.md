@@ -29,16 +29,19 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ 
 
-<br/>
-<br/>
-
+   <br/>
+   <br/>
+   
+   
+![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jabedkhanjb&show_icons=true&theme=radical)
+   
  
 <summary><h3>📊 Github Stats and Activity</h3></summary>
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabedkhanjb&show_icons=true&theme=radical)
+   ![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabedkhanjb&show_icons=true&theme=radical)
    
-   <br/>
 <h3>🔥 Streak Stats</h3>
 <a href="https://github.com/jabedkhanjb/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jabedkhanjb's streak" src="https://streak-stats.demolab.com/?user=jabedkhanjb&theme=monokai-metallian&hide_border=true"/>
