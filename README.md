@@ -50,6 +50,9 @@ Github Profile Visitors Count
    <br/>
    <br/>
    
+    
+    
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>    
    
 ![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jabedkhanjb&show_icons=true&theme=radical)
    
