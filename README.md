@@ -56,7 +56,11 @@ Github Profile Visitors Count
  
 <summary><h3>📊 Github Stats and Activity</h3></summary>
    
-   ![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabedkhanjb&show_icons=true&theme=radical)
+    
+    
+![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabedkhanjb&show_icons=true&theme=gruvbox)
+    
+
    
 <h3>🔥 Streak Stats</h3>
 <a href="https://github.com/jabedkhanjb/github-readme-streak-stats">
