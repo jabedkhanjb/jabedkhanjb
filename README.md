@@ -56,8 +56,8 @@ Github Profile Visitors Count
     
 <a href="https://allmylinks.com/jabedkhanjb"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabedkhanjb&layout=compact&theme=buefy&hide_border=true" /></a>  
     
-![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jabedkhanjb&show_icons=true&theme=radical) 
-   
+<!-- ![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jabedkhanjb&show_icons=true&theme=radical) 
+    -->
 <!-- **validation expired** ![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jabedkhanjb&show_icons=true&theme=radical) -->
       
  
