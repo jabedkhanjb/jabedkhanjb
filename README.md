@@ -80,7 +80,7 @@ Github Profile Visitors Count
 <a href="https://github.com/jabedkhanjb/github-readme-activity-graph"><img alt="jabedkhanjb's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jabedkhanjb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h3>🎖 Achievement </h3>
- <a href="https://www.hackerrank.com/certificates/464050961833" target = "_blank"> <img src="/IMG/canvas.png" alt="HackerRank Certificate" "> </a>
+ <a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Certificate" "> </a>
 
 [website]: https://allmylinks.com/jabedkhanjb
 [youtube]: https://youtube.com/jabedkhanjb
