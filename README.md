@@ -70,7 +70,7 @@ Github Profile Visitors Count
 
    
 <h3>🔥 Streak Stats</h3>
-<a href="https://github.com/jabedkhanjb/github-readme-streak-stats">
+<a href="https://www.youtube.com/c/jabedkhanjb">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jabedkhanjb's streak" src="https://streak-stats.demolab.com/?user=jabedkhanjb&theme=monokai-metallian&hide_border=true"/>
     </a>
     
