@@ -82,11 +82,15 @@ Github Profile Visitors Count
   
 <a href="https://github.com/jabedkhanjb" target = "_blank"><img alt="jabedkhanjb's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jabedkhanjb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<h3>🎖 Achievement </h3>
+<h3>🎖 Achievements </h3>
+
+## Python Basic Test 
 
 <a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Python Basic Text Certificate"> </a>
 
-<a href="https://www.hackerrank.com/certificates/83be8eadb43c" target="_blank"> <img src="/IMG/problem_solving_basic certificate.pdf" alt="HackerRank Python Problem Solving Test Certificate"> </a>
+## Problem Solving Test 🥇
+
+<a href="https://www.hackerrank.com/certificates/83be8eadb43c" target="_blank"> <img src="/IMG/problem_solving_basic certificate.png" alt="HackerRank Python Problem Solving Test Certificate"> </a>
     
 
 [website]: https://allmylinks.com/jabedkhanjb
