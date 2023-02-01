@@ -90,7 +90,7 @@ Github Profile Visitors Count
 
 ## Problem Solving Test 🥇
 
-<a href="https://www.hackerrank.com/certificates/83be8eadb43c" target="_blank"> <img src="/IMG/problem_solving_basic certificate.png" alt="HackerRank Python Problem Solving Test Certificate"> </a>
+<a href="https://www.hackerrank.com/certificates/83be8eadb43c" target="_blank"> <img src="/IMG/problem_solving_basic.png" alt="HackerRank Python Problem Solving Test Certificate"> </a>
     
 
 [website]: https://allmylinks.com/jabedkhanjb
