@@ -84,10 +84,10 @@ Github Profile Visitors Count
 
 <h3>🎖 Achievements </h3>
 
-## 🥇 Python Basic & Problem solving test certificates ✨
+## Python Basic Test ✨
 
-<a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Python Basic Text Certificate" width = 400, height=300> </a> 
-<a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Python Basic Text Certificate" width = 400, height=300> </a> 
+<a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Python Basic Text Certificate"> </a> 
+
 
 ## Problem Solving Test 🥇
 <a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Python Basic Text Certificate"> </a> 
