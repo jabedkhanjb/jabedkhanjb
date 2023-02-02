@@ -86,11 +86,12 @@ Github Profile Visitors Count
 
 ## Python Basic Test ✨
 
-<a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Python Basic Text Certificate" width = 400, height=300> </a>
+<a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Python Basic Text Certificate" width = 400, height=300> </a> 
+<a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Python Basic Text Certificate" width = 400, height=300> </a> 
 
-## Problem Solving Test 🥇
+<!-- ## Problem Solving Test 🥇 -->
 
-<a href="https://www.hackerrank.com/certificates/83be8eadb43c" target="_blank"> <img src="/IMG/problem_solving_basic.png" alt="HackerRank Python Problem Solving Test Certificate" width = 400, height=300> </a> 
+
     
 
 [website]: https://allmylinks.com/jabedkhanjb
