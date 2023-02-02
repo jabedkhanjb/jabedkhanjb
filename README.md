@@ -82,7 +82,7 @@ Github Profile Visitors Count
   
 <a href="https://github.com/jabedkhanjb" target = "_blank"><img alt="jabedkhanjb's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jabedkhanjb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<summary> <h3>🎖 Achievements </h3> </summary>
+<h3>🎖 Achievements </h3>
 
 ## Python Basic Test ✨
 
