@@ -90,7 +90,7 @@ Github Profile Visitors Count
 
 
 ## Problem Solving Test 🥇
-<a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Python Basic Text Certificate"> </a> 
+<a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/problem_solving_basic.png" alt="HackerRank Python Basic Text Certificate"> </a> 
 
     
 
