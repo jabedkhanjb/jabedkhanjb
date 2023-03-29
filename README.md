@@ -45,6 +45,7 @@ Github Profile Visitors Count
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-plain.svg" />
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original-wordmark.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-plain.svg" />
     
