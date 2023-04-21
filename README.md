@@ -1,4 +1,4 @@
-## Hi Everyone! Welcome to 🏄‍♂️ Jabed's GitHub Profile
+## Hi Everyone Eid Mubarak! Welcome to 🏄‍♂️ Jabed's GitHub Profile
 
 <!-- # 🏄‍♂️ MAHFUZ ISLAM KHAN JABED -->
 
@@ -7,6 +7,7 @@
 <!-- 
 
 Github Profile Visitors Count is Currently Dormant 
+Eid Mubarak 
 
 Github Profile Visitors Count
 <a href="https://github.com/jabedkhanjb/github-profile-views-counter">
