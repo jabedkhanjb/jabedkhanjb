@@ -1,4 +1,4 @@
-## Hi Everyone Eid Mubarak! Welcome to 🏄‍♂️ Jabed's GitHub Profile
+## Hi Everyone Eid Mubarak! Welcome to 🏄‍♂️ Jb's GitHub Profile
 
 <!-- # 🏄‍♂️ MAHFUZ ISLAM KHAN JABED -->
 
