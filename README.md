@@ -7,7 +7,6 @@
 <!-- 
 
 Github Profile Visitors Count is Currently Dormant 
-Eid Mubarak 2
 
 Github Profile Visitors Count
 <a href="https://github.com/jabedkhanjb/github-profile-views-counter">
