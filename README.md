@@ -8,7 +8,6 @@
 
 Github Profile Visitors Count is Currently Dormant 
 
-Github Profile Visitors Count
 <a href="https://github.com/jabedkhanjb/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jabedkhanjb&style=for-the-badge">
 </a>
