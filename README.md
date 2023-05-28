@@ -83,7 +83,9 @@ Github Profile Visitors Count is Currently Dormant.
 
 <h3>📅 Monthly Acitivities</h3>
   
+  
 <a href="https://github.com/jabedkhanjb" target = "_blank"><img alt="jabedkhanjb's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jabedkhanjb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 <h3>🎖 Achievements </h3>
 
