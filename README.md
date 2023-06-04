@@ -5,7 +5,7 @@
 <a href= "https://allmylinks.com/jabedkhanjb">**`@jabedkhanjb`**</a>
 
  <!-- **********Github Profile Viewers********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked🧐)
+![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked 🧐)
 
 <!-- 
 
