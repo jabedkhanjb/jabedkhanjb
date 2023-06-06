@@ -7,19 +7,6 @@
  <!-- **********Github Profile Viewers********** -->
 ![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
 
-<!-- 
-
-Github Profile Visitors Count is Currently Dormant.
-
-<a href="https://github.com/jabedkhanjb/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jabedkhanjb&style=for-the-badge">
-</a>
-
-
-[GitHub Profile Views Counter]: https://github.com/jabedkhanjb/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174) -->
-
 
 
 
