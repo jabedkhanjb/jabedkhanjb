@@ -70,7 +70,7 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jabedkhanjb's streak" src="https://streak-stats.demolab.com/?user=jabedkhanjb&theme=monokai-metallian&hide_border=true"/>
     </a>
     
-
+<!-- 
 <h3>📅 Monthly Acitivities</h3>
   
   
@@ -86,7 +86,7 @@
 
 ### Problem Solving Test 🥇
 <a href="https://www.hackerrank.com/certificates/83be8eadb43c" target="_blank"> <img src="/IMG/problem_solving_basic.png" alt="HackerRank Python Basic Text Certificate"> </a> 
-
+-->
     
 
 [website]: https://allmylinks.com/jabedkhanjb
