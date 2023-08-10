@@ -1,6 +1,6 @@
 ## Hi Everyone! Welcome to 🏄‍♂️ Jb's GitHub Profile
 
-<!-- # 🏄‍♂️ MAHFUZ ISLAM KHAN JABED -->
+ # 🏄‍♂️ MAHFUZ ISLAM KHAN JABED
 
 <a href= "https://www.facebook.com/jabedkhanjb">**`@jabedkhanjb`**</a>
 
