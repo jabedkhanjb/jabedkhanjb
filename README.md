@@ -7,10 +7,6 @@
  <!-- ********** Github Profile Viewers ********** -->
 ![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
 
- 
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
    
    <p align="left">
       <a href="https://www.youtube.com/c/jabedkhanjb?sub_confirmation=1">
