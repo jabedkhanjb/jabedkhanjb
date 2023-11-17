@@ -7,72 +7,11 @@
  <!-- ********** Github Profile Viewers ********** -->
 ![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
 
+ 
  <!-- ********** Github Profile Viewers ********** -->
 ![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
 
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
- <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
-
-
-
-
-
-
-
+   
    <p align="left">
       <a href="https://www.youtube.com/c/jabedkhanjb?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUv26lxPr2DHb8Tps-A5FVw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
