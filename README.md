@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/jabedkhanjb">**`@jabedkhanjb`**</a>
 
  <!-- ********** Github Profile Viewers ********** -->
-![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Peeked+🧐&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=jabedkhanjb&label=Profile+Views&color=brightgreen)
 
    
    <p align="left">
